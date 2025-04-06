@@ -31,7 +31,7 @@ Here's a list of things I keep myself busy with:
 <br>
 
 ## 📈 GitHub Stats
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarkoya&layout=compact&show_icons=true&theme=tokyonight) ![github stats](https://github-readme-stats.vercel.app/api?username=cmarkoya&show_icons=true&theme=tokyonight)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarkoya&layout=compact&show_icons=true&theme=tokyonight&hide_border=true) ![github stats](https://github-readme-stats.vercel.app/api?username=cmarkoya&show_icons=true&theme=tokyonight&hide_border=true)
 
 <br>
 

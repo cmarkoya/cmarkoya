@@ -7,8 +7,8 @@
 
 Here's a list of things I keep myself busy with:
 - 🎓 Education: Master of Public Health at Yale University
-- 🌱 I’m currently learning: Python, R, SQL, AWS, Azure, GCP, HTML-CSS
-- ☀️ I'm passionate about: coding, data analytics/data science, and process improvement
+- 🌱 I’m currently learning everything!
+- ☀️ I'm passionate about: data analytics/data science, coding, and process improvement
 - 📫 Where to find me: LinkedIn
 
 <br>
@@ -16,7 +16,7 @@ Here's a list of things I keep myself busy with:
 <details>
 <summary> Some other fun facts about me-e-e </summary>
 
-+ Been recently into 3D modeling and 🖨️ 3D printing!
++ Been recently into AI and Machine Learning!🤔
 + I am a huge foodie and love to find new hole-in-the-wall restaurants 🍽️
 + I hope to run a marathon one day 🏃‍♀️
 </details>

@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/celia-markoya/)
 
 Here's a list of things I keep myself busy with:
-- 🎓 Education: M.S. Applied Health Informatics Student at Stony Brook University
+- 🎓 Education: Master of Public Health at Yale University
 - 🌱 I’m currently learning: Python, R, SQL, AWS, Azure, GCP, HTML-CSS
 - ☀️ I'm passionate about: coding, data analytics/data science, and process improvement
 - 📫 Where to find me: LinkedIn
@@ -31,7 +31,7 @@ Here's a list of things I keep myself busy with:
 <br>
 
 ## 📈 GitHub Stats
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicewu1&layout=compact&show_icons=true&theme=tokyonight) ![github stats](https://github-readme-stats.vercel.app/api?username=alicewu1&show_icons=true&theme=tokyonight)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarkoya&layout=compact&show_icons=true&theme=tokyonight) ![github stats](https://github-readme-stats.vercel.app/api?username=cmarkoya&show_icons=true&theme=tokyonight)
 
 <br>
 

@@ -1,9 +1,9 @@
 ![My Banner Image](gh_banner_3.png "My Banner Image")
 
-## **Hey there!**
+## **Hey there, I'm Celia**
 
 ![](https://komarev.com/ghpvc/?username=cmarkoya&color=ff69b4)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alice-wu06/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/celia-markoya/)
 
 Here's a list of things I keep myself busy with:
 - 🎓 Education: M.S. Applied Health Informatics Student at Stony Brook University

@@ -22,8 +22,8 @@ Here's a list of things I keep myself busy with:
 
 ------
 ## 📌 Currently Working on:
-<a href="[https://github.com/cmarkoya/celia_onecareer_data_science](https://github.com/cmarkoya/celia_onecareer_data_science)"> 
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cmarkoya&repo=celia_onecareer_data_science&" />
+<a href="[https://github.com/cmarkoya/ai-engineering](https://github.com/cmarkoya/ai-engineering)"> 
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cmarkoya&repo=ai-engineering&" />
 </a>
 
 <br>
